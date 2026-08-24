@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "question": "新公司法对一人公司数量限制有什么核心突破",
+    "reference_answer": "新公司法彻底取消了一个自然人只能投资设立一个一人有限责任公司的规定，一个自然人可以独资设立无限数量的多个一人公司",
+    "category": "事实型"
+  },
+  {
+    "id": 2,
+    "question": "新公司法对一人公司认缴出资期限有什么规定",
+    "reference_answer": "有限责任公司股东认缴的出资额需按照公司章程规定自公司成立之日起五年内缴足",
+    "category": "事实型"
+  },
+  {
+    "id": 3,
+    "question": "2026年小规模纳税人月销售额多少以下免征增值税",
+    "reference_answer": "月销售额10万元以下（含本数）的增值税小规模纳税人免征增值税",
+    "category": "数据型"
+  },
+  {
+    "id": 4,
+    "question": "注册为小型微利企业的OPC年应纳税所得额不超过300万元部分的实际企业所得税负是多少",
+    "reference_answer": "减按25%计入应纳税所得额并按20%税率缴纳，实际税负仅为5%",
+    "category": "数据型"
+  },
+  {
+    "id": 5,
+    "question": "针对小微企业和个体工商户的普惠性税费减免政策延期执行到什么时候",
+    "reference_answer": "延期执行至2027年12月31日",
+    "category": "数据型"
+  },
+  {
+    "id": 6,
+    "question": "新公司法对一人公司准入机制的全面放开对超级个体创业有什么意义",
+    "reference_answer": "标志着国家在法律层面对单兵作战式微型创业模式的全面认可，极大地降低了个人创业的试错成本与架构搭建门槛",
+    "category": "推理型"
+  },
+  {
+    "id": 7,
+    "question": "一人公司创始人为什么必须严格做到公私账户分离",
+    "reference_answer": "因为新公司法第六十三条规定，一人有限责任公司的股东不能证明公司财产独立于股东自己的财产的应当对公司债务承担连带责任",
+    "category": "推理型"
+  },
+  {
+    "id": 8,
+    "question": "2026年一人公司可以享受25%的企业所得税标准税率吗",
+    "reference_answer": "参考资料中未找到相关信息",
+    "category": "陷阱题"
+  },
+  {
+    "id": 9,
+    "question": "中国AI大模型Token调用量在哪一周首次超越美国",
+    "reference_answer": "2026年2月9日至15日当周，中国大模型的调用量激增至4.12万亿Token首次超越同期美国模型的2.94万亿Token",
+    "category": "事实型"
+  },
+  {
+    "id": 10,
+    "question": "在OpenRouter平台的用户构成中哪个国家的用户占比最高",
+    "reference_answer": "OpenRouter平台47.17%的用户来自美国，中国开发者仅占6.01%",
+    "category": "事实型"
+  },
+  {
+    "id": 11,
+    "question": "2026年2月16日至22日当周中国AI大模型的周调用量达到多少",
+    "reference_answer": "5.16万亿Token，三周累计上涨127%",
+    "category": "数据型"
+  },
+  {
+    "id": 12,
+    "question": "在全球调用量排名前五的模型中中国本土模型占据几席占比多少",
+    "reference_answer": "占据四席，整体占比高达85.7%",
+    "category": "数据型"
+  },
+  {
+    "id": 13,
+    "question": "MiniMax M2.5模型单周调用量突破多少Token占全球份额多少",
+    "reference_answer": "突破3万亿Token，独占全球约40%的份额",
+    "category": "数据型"
+  },
+  {
+    "id": 14,
+    "question": "为什么中国AI Token调用量超越美国被认为是性价比优势的体现",
+    "reference_answer": "因为OpenRouter平台47.17%的用户来自美国中国开发者仅占6.01%，这意味着中国模型在用户基数远小于美国的情况下实现了调用量反超证明其性价比优势",
+    "category": "推理型"
+  },
+  {
+    "id": 15,
+    "question": "Agent应用跃迁如何改变了Token的消耗逻辑",
+    "reference_answer": "从人类单次点击驱动升级为机器全天候自循环驱动，一次后台自动化任务可能瞬间消耗数十万甚至数百万Token。中国厂商凭借极致的推理成本优势承接了这一波高密度算力需求转移",
+    "category": "推理型"
+  },
+  {
+    "id": 16,
+    "question": "美国AI大模型在2026年2月的周调用量是否超过了中国峰值",
+    "reference_answer": "参考资料中未找到相关信息",
+    "category": "陷阱题"
+  },
+  {
+    "id": 17,
+    "question": "GPT-5.4在OSWorld-Verified基准测试中取得了多少分",
+    "reference_answer": "75.0%，全面碾压前代GPT-5.2的47.3%并首次超越了72.4%的人类实测基准线",
+    "category": "事实型"
+  },
+  {
+    "id": 18,
+    "question": "GPT-5.4的上下文窗口支持多少Token",
+    "reference_answer": "高达1,050,000个Token（1.05M）",
+    "category": "事实型"
+  },
+  {
+    "id": 19,
+    "question": "GPT-5.4相比GPT-5.2整体错误率下降了多少严重事实性错误减少了多少",
+    "reference_answer": "整体错误率下降了18%，严重事实性错误（幻觉）减少了33%",
+    "category": "数据型"
+  },
+  {
+    "id": 20,
+    "question": "GPT-5.4在需要人类专家耗时4-8小时完成的复杂专业任务测试中击败人类专业人士的比例是多少",
+    "reference_answer": "83%",
+    "category": "数据型"
+  },
+  {
+    "id": 21,
+    "question": "GPT-5.4原生计算机使用能力的落地对普通白领工作有什么深远影响",
+    "reference_answer": "AI不再仅仅是生成文本或代码的工具而是能够代替人类接管操作系统的自主执行者，将人类的角色从操作者彻底转变为监督者与决策者",
+    "category": "推理型"
+  },
+  {
+    "id": 22,
+    "question": "GPT-5.4对初级程序员的工作价值有什么冲击",
+    "reference_answer": "初级程序员（切图仔或CRUD工程师）的工作价值将大幅缩水因为GPT-5.4可以直接接管整个项目的重构与调试。未来的高薪工程师将是擅长系统架构设计和复杂业务逻辑拆解的AI指挥官",
+    "category": "推理型"
+  },
+  {
+    "id": 23,
+    "question": "GPT-5.4是否支持多模态图像生成功能",
+    "reference_answer": "参考资料中未找到相关信息",
+    "category": "陷阱题"
+  },
+  {
+    "id": 24,
+    "question": "深圳龙岗区对贡献关键代码或开发具身智能应用的最高补贴是多少",
+    "reference_answer": "最高补贴200万元",
+    "category": "事实型"
+  },
+  {
+    "id": 25,
+    "question": "无锡高新区对本地云平台免费部署给予多少补助",
+    "reference_answer": "全额补助最高100万元",
+    "category": "事实型"
+  },
+  {
+    "id": 26,
+    "question": "无锡高新区对新型OPC企业提供多长时间的免费算力数据标注最高补贴多少",
+    "reference_answer": "新型OPC企业享受3个月免费算力，数据标注最高补贴50万元",
+    "category": "数据型"
+  },
+  {
+    "id": 27,
+    "question": "深圳龙岗区对OpenClaw项目的补贴按总投资多少比例给予",
+    "reference_answer": "按项目总投资40%给予补贴",
+    "category": "数据型"
+  },
+  {
+    "id": 28,
+    "question": "OpenClaw引发全社会AI焦虑的核心原因是什么",
+    "reference_answer": "OpenClaw被允许连接本地文件系统、接管通讯工具并自动执行Shell命令，这种对数字设备控制权的直接让渡是引发公众职场替代焦虑和数据隐私恐慌的核心原因",
+    "category": "推理型"
+  },
+  {
+    "id": 29,
+    "question": "为什么OpenClaw无法进入金融政务等核心生产环节",
+    "reference_answer": "因为OpenClaw的完全开放性带来了严重的内生风险其插件市场已被发现存在恶意代码且全球有超3万个实例因配置不当暴露在公网",
+    "category": "推理型"
+  },
+  {
+    "id": 30,
+    "question": "OpenClaw是否获得了国家发改委的专项扶持资金",
+    "reference_answer": "参考资料中未找到相关信息",
+    "category": "陷阱题"
+  },
+  {
+    "id": 31,
+    "question": "龙牡壮骨颗粒属于什么类型的药物",
+    "reference_answer": "属于中西药合剂，包含党参黄芪等补气健脾的中药还添加了维生素D2乳酸钙葡萄糖酸钙等现代营养强化剂",
+    "category": "事实型"
+  },
+  {
+    "id": 32,
+    "question": "孩子经临床诊断存在缺钙或佝偻病时服用龙牡壮骨颗粒有什么作用",
+    "reference_answer": "通过补钙与改善脾胃具有显著的辅助增高作用",
+    "category": "事实型"
+  },
+  {
+    "id": 33,
+    "question": "身高发育受多因素影响其中遗传的影响占比大约是多少",
+    "reference_answer": "身高约70%取决于遗传",
+    "category": "数据型"
+  },
+  {
+    "id": 34,
+    "question": "服用龙牡壮骨颗粒配合户外运动建议每天运动多长时间几点前入睡效果最佳",
+    "reference_answer": "每日不少于40分钟的户外运动，晚上10点前的深度睡眠能使药效发挥最大化",
+    "category": "数据型"
+  },
+  {
+    "id": 35,
+    "question": "为什么单纯补钙而不调理脾胃往往效果不好",
+    "reference_answer": "因为单纯补钙容易导致钙剂吸收率低下甚至造成肠胃负担，龙牡壮骨颗粒通过健脾和胃类中药改善食欲提高肠道对营养物质的吸收能力从而实现双向调节",
+    "category": "推理型"
+  },
+  {
+    "id": 36,
+    "question": "龙牡壮骨颗粒是否可以替代生长激素治疗",
+    "reference_answer": "参考资料中未找到相关信息",
+    "category": "陷阱题"
+  },
+  {
+    "id": 37,
+    "question": "央视315晚会曝光了哪个GEO优化系统被用于AI投毒",
+    "reference_answer": "力擎GEO优化系统",
+    "category": "事实型"
+  },
+  {
+    "id": 38,
+    "question": "当大模型训练或检索数据中掺入多少比例的定向虚假文本时有害输出率会激增多少",
+    "reference_answer": "掺入0.01%的定向虚假文本时有害或错误输出率便会激增11.2%",
+    "category": "事实型"
+  },
+  {
+    "id": 39,
+    "question": "2025年中国AI搜索月活用户达到多少",
+    "reference_answer": "超6亿",
+    "category": "数据型"
+  },
+  {
+    "id": 40,
+    "question": "国信证券预测2026年国内GEO市场规模将突破多少亿元",
+    "reference_answer": "111亿元",
+    "category": "数据型"
+  },
+  {
+    "id": 41,
+    "question": "企业为什么要建立针对主流大模型的常态化监控体系",
+    "reference_answer": "因为一旦虚假信息被写入大模型的底层参数或形成稳固的检索缓存企业进行纠错和洗白的时间成本与资金成本将是传统公关危机的数十倍",
+    "category": "推理型"
+  },
+  {
+    "id": 42,
+    "question": "315晚会曝光的AI投毒黑产是否涉及人脸识别数据窃取",
+    "reference_answer": "参考资料中未找到相关信息",
+    "category": "陷阱题"
+  },
+  {
+    "id": 43,
+    "question": "国务院印发的关于深入实施人工智能加行动的意见是在什么时候发布的",
+    "reference_answer": "2025年8月",
+    "category": "事实型"
+  },
+  {
+    "id": 44,
+    "question": "科大讯飞在2025年第二季度中国AI学习机市场的销售额排名如何",
+    "reference_answer": "登顶中国市场销售额第一，连续多年稳居高端市场头部",
+    "category": "事实型"
+  },
+  {
+    "id": 45,
+    "question": "2025年第二季度中国学习平板出货量达到多少台同比增长多少",
+    "reference_answer": "154万台，同比大幅增长44.6%",
+    "category": "数据型"
+  },
+  {
+    "id": 46,
+    "question": "艾媒咨询预测2026年中国AI大模型市场规模将突破多少亿元",
+    "reference_answer": "738亿元。2024年约294.16亿元，2025年约495亿元",
+    "category": "数据型"
+  },
+  {
+    "id": 47,
+    "question": "作业帮在中国AI学习机市场的销量占比大约是多少学而思呢",
+    "reference_answer": "作业帮约30%领跑全市场出货量，学而思约13%",
+    "category": "数据型"
+  },
+  {
+    "id": 48,
+    "question": "为什么2026年纯靠堆砌硬件参数的二三线学习机品牌将面临出清",
+    "reference_answer": "因为市场已告别同质化竞争进入拼底层技术与核心教研的寡头博弈阶段，头部格局已初步固化",
+    "category": "推理型"
+  },
+  {
+    "id": 49,
+    "question": "科大讯飞AI学习机是否支持GPT-5.4模型接入",
+    "reference_answer": "参考资料中未找到相关信息",
+    "category": "陷阱题"
+  },
+  {
+    "id": 50,
+    "question": "国家广播电视总局从什么时候开始开展AI魔改视频专项治理行动持续多长时间",
+    "reference_answer": "自2026年1月1日起为期一个月",
+    "category": "事实型"
+  },
+  {
+    "id": 51,
+    "question": "麦肯锡报告显示生成式AI有潜力带来相当于全球行业收入多少比例的新增价值",
+    "reference_answer": "9%",
+    "category": "数据型"
+  },
+  {
+    "id": 52,
+    "question": "AI生成的影视短剧制作成本仅为传统真人短剧的百分之几",
+    "reference_answer": "约25%（即1/4）",
+    "category": "数据型"
+  },
+  {
+    "id": 53,
+    "question": "Gartner预测到2026年底多少比例的企业将把生成式AI工具导入日常营运",
+    "reference_answer": "超过80%",
+    "category": "数据型"
+  },
+  {
+    "id": 54,
+    "question": "为什么头部演员的情感溢价在AI时代反而会更加凸显",
+    "reference_answer": "因为AI可以替代约80%的影视视觉重复性劳动但剩下的20%涵盖核心创意微表情的细腻传达及深层情感共鸣仍需人类专业人员的高级介入",
+    "category": "推理型"
+  },
+  {
+    "id": 55,
+    "question": "AI演员是否已经完全取代了真人演员",
+    "reference_answer": "参考资料中未找到相关信息",
+    "category": "陷阱题"
+  },
+  {
+    "id": 56,
+    "question": "OpenAI在哪一天正式宣布关停Sora服务",
+    "reference_answer": "2026年3月24日",
+    "category": "事实型"
+  },
+  {
+    "id": 57,
+    "question": "OpenAI与迪士尼的IP授权与投资协议总价值是多少",
+    "reference_answer": "10亿美元（全额股票认股权证）",
+    "category": "事实型"
+  },
+  {
+    "id": 58,
+    "question": "OpenAI预计最快将于什么时候进行首次公开募股",
+    "reference_answer": "2026年第四季度",
+    "category": "数据型"
+  },
+  {
+    "id": 59,
+    "question": "OpenAI关停Sora的核心商业逻辑是什么",
+    "reference_answer": "Sora是算力吞金兽继续将昂贵算力倾注于C端视频应用是一项投资回报率极低的决策，砍掉高耗能的视频业务是对算力这一核心生产要素的止损与重新分配",
+    "category": "推理型"
+  },
+  {
+    "id": 60,
+    "question": "Sora关停后OpenAI是否推出了Sora 2.0版本",
+    "reference_answer": "参考资料中未找到相关信息",
+    "category": "陷阱题"
+  },
+  {
+    "id": 61,
+    "question": "2026年春节阿里千问投了多少钱做免单活动",
+    "reference_answer": "30亿元，是几家大厂里投入最多的",
+    "category": "数据型"
+  },
+  {
+    "id": 62,
+    "question": "千问App上线几个小时就突破了1000万单",
+    "reference_answer": "9小时",
+    "category": "数据型"
+  },
+  {
+    "id": 63,
+    "question": "2026年春节AI红包大战，几家大厂总共投了多少钱",
+    "reference_answer": "超过45亿元人民币",
+    "category": "数据型"
+  },
+  {
+    "id": 64,
+    "question": "腾讯元宝在2026年春节投了多少钱",
+    "reference_answer": "10亿元现金红包",
+    "category": "数据型"
+  },
+  {
+    "id": 65,
+    "question": "字节豆包在2026年春节投了多少钱做活动",
+    "reference_answer": "数亿元人民币，还发了10万份科技大礼和8888元现金红包",
+    "category": "数据型"
+  },
+  {
+    "id": 66,
+    "question": "百度文心一言在2026年春节投了多少红包",
+    "reference_answer": "5亿元",
+    "category": "数据型"
+  },
+  {
+    "id": 67,
+    "question": "千问App接入了多少家线下茶饮门店",
+    "reference_answer": "全国30万+线下茶饮门店",
+    "category": "数据型"
+  },
+  {
+    "id": 68,
+    "question": "2026年春节千问\"帮我\"交互达到了多少次",
+    "reference_answer": "11天内达到50亿次交互",
+    "category": "数据型"
+  },
+  {
+    "id": 69,
+    "question": "除夕当晚字节豆包的AI互动总数是多少",
+    "reference_answer": "19亿次",
+    "category": "数据型"
+  },
+  {
+    "id": 70,
+    "question": "腾讯元宝促成用户完成AI创作任务多少次",
+    "reference_answer": "超过10亿次",
+    "category": "数据型"
+  },
+  {
+    "id": 71,
+    "question": "字节豆包每分钟处理的Token吞吐量峰值是多少",
+    "reference_answer": "每分钟633亿Token",
+    "category": "数据型"
+  },
+  {
+    "id": 72,
+    "question": "支付宝\"AI付\"用户数在2026年春节突破了",
+    "reference_answer": "1亿大关",
+    "category": "数据型"
+  },
+  {
+    "id": 73,
+    "question": "2026年春节机器人搜索量暴涨了多少",
+    "reference_answer": "暴涨300%",
+    "category": "数据型"
+  },
+  {
+    "id": 74,
+    "question": "Seedance 2.0的生成可用率是多少",
+    "reference_answer": "90%以上，远超行业早期的20%",
+    "category": "数据型"
+  },
+  {
+    "id": 75,
+    "question": "用Seedance 2.0做一部90分钟样片，成本能压到多少",
+    "reference_answer": "大约2000元人民币",
+    "category": "数据型"
+  },
+  {
+    "id": 76,
+    "question": "Seedance 2.0单次生成视频最长能到多少秒",
+    "reference_answer": "15秒到60秒",
+    "category": "数据型"
+  },
+  {
+    "id": 77,
+    "question": "Seedance 2.0支持哪些分辨率",
+    "reference_answer": "1080P和4K",
+    "category": "数据型"
+  },
+  {
+    "id": 78,
+    "question": "2026年中国AI模型在非美市场的渗透率大约是多少",
+    "reference_answer": "接近30%",
+    "category": "数据型"
+  },
+  {
+    "id": 79,
+    "question": "中国目前有多少家\"灯塔工厂\"",
+    "reference_answer": "62家，占全球总数的40%，世界第一",
+    "category": "数据型"
+  },
+  {
+    "id": 80,
+    "question": "截至2023年底中国建了多少个5G基站",
+    "reference_answer": "337.7万个",
+    "category": "数据型"
+  },
+  {
+    "id": 81,
+    "question": "\"5G+工业互联网\"项目数超过多少",
+    "reference_answer": "超过1万个",
+    "category": "数据型"
+  },
+  {
+    "id": 82,
+    "question": "中国制造业目前大约有多少比例的数据具备\"AI可读性\"",
+    "reference_answer": "大约30%",
+    "category": "数据型"
+  },
+  {
+    "id": 83,
+    "question": "2024年中国规模以上工业企业关键工序数控化率是多少",
+    "reference_answer": "超过60%",
+    "category": "数据型"
+  },
+  {
+    "id": 84,
+    "question": "2024年全球白银市场缺口大约多少盎司",
+    "reference_answer": "约1.49亿盎司",
+    "category": "数据型"
+  },
+  {
+    "id": 85,
+    "question": "白银的导电率是多少",
+    "reference_answer": "63×10的6次方 S/m，是自然界导电率最高的金属",
+    "category": "数据型"
+  },
+  {
+    "id": 86,
+    "question": "AI数据中心的能耗是传统数据中心的几倍",
+    "reference_answer": "5到8倍",
+    "category": "数据型"
+  },
+  {
+    "id": 87,
+    "question": "IDC预测2026年中国制造业在AI解决方案上的支出会怎样",
+    "reference_answer": "将显著增长，市场迎来指数级增长",
+    "category": "数据型"
+  },
+  {
+    "id": 88,
+    "question": "到2026年底国产智能算力在政府及央企采购中的占比预计突破多少",
+    "reference_answer": "65%",
+    "category": "数据型"
+  },
+  {
+    "id": 89,
+    "question": "2026年预计AI模型单次复杂任务调用的算力成本是多少",
+    "reference_answer": "大约0.05到0.1元",
+    "category": "数据型"
+  },
+  {
+    "id": 90,
+    "question": "接入长三角算力节点后，那家杭州公司算力成本降了多少",
+    "reference_answer": "综合算力成本下降40%",
+    "category": "数据型"
+  },
+  {
+    "id": 91,
+    "question": "2026年春节期间中国AI类应用日均交互次数相比2024年有什么变化",
+    "reference_answer": "\"任务执行\"类交互在2026年激增，代表Agent时代到来",
+    "category": "数据型"
+  },
+  {
+    "id": 92,
+    "question": "2025年涉及AI换脸的诈骗案件同比上升了多少",
+    "reference_answer": "15%",
+    "category": "数据型"
+  },
+  {
+    "id": 93,
+    "question": "2026年千问免单活动中，服务器扛不住流量的原因是什么",
+    "reference_answer": "9小时1000万单的高并发导致服务器一度宕机",
+    "category": "事实型"
+  },
+  {
+    "id": 94,
+    "question": "工信部算力互联互通节点分哪三级",
+    "reference_answer": "国家节点、区域节点、行业节点",
+    "category": "事实型"
+  },
+  {
+    "id": 95,
+    "question": "2026年教育部中考命题要求压减哪类试题",
+    "reference_answer": "大幅压减机械记忆（死记硬背）类试题比例",
+    "category": "事实型"
+  },
+  {
+    "id": 96,
+    "question": "《学位法》什么时候开始施行的",
+    "reference_answer": "2025年1月1日",
+    "category": "事实型"
+  },
+  {
+    "id": 97,
+    "question": "《互联网信息服务深度合成管理规定》是哪天发布的",
+    "reference_answer": "2022年12月12日",
+    "category": "事实型"
+  },
+  {
+    "id": 98,
+    "question": "《生成式人工智能服务管理暂行办法》是哪天施行的",
+    "reference_answer": "2023年8月15日",
+    "category": "事实型"
+  },
+  {
+    "id": 99,
+    "question": "2026年中考命题中，探究性、开放性、综合性试题比例预计达到多少",
+    "reference_answer": "50%以上",
+    "category": "数据型"
+  },
+  {
+    "id": 100,
+    "question": "2026年中考AI融合类试题占比预计突破多少",
+    "reference_answer": "20%",
+    "category": "数据型"
+  },
+  {
+    "id": 101,
+    "question": "2023年全年中国出生人口是多少",
+    "reference_answer": "902万人，连续第七年下降",
+    "category": "数据型"
+  },
+  {
+    "id": 102,
+    "question": "中国高中阶段适龄人口预计在哪一年达到峰值",
+    "reference_answer": "2029年",
+    "category": "数据型"
+  },
+  {
+    "id": 103,
+    "question": "教育部要求到哪一年前在中小学基本普及人工智能教育",
+    "reference_answer": "2030年前",
+    "category": "数据型"
+  },
+  {
+    "id": 104,
+    "question": "OpenClaw是什么类型的项目",
+    "reference_answer": "一个开源的AI代理（Agent）系统，能自动接管电脑、浏览器完成实际任务",
+    "category": "事实型"
+  },
+  {
+    "id": 105,
+    "question": "VoxYZ网站用了几个AI智能体来运营",
+    "reference_answer": "6个，包括主编、研究、撰稿、社交等Agent",
+    "category": "数据型"
+  },
+  {
+    "id": 106,
+    "question": "2026年AI视频模型对物理一致性的提升主要得益于什么架构",
+    "reference_answer": "DiT（Diffusion Transformer）架构",
+    "category": "事实型"
+  },
+  {
+    "id": 107,
+    "question": "Seedance 2.0相比上一代在语义理解准确率上提升了多少",
+    "reference_answer": "40%以上",
+    "category": "数据型"
+  },
+  {
+    "id": 108,
+    "question": "2026年春节工信部发布的算力互联互通节点通知是几月几日",
+    "reference_answer": "2026年2月6日",
+    "category": "数据型"
+  },
+  {
+    "id": 109,
+    "question": "工信部\"算力互联互通\"要求做到哪\"三统\"",
+    "reference_answer": "统一标识、统一标准、统一规则",
+    "category": "事实型"
+  },
+  {
+    "id": 110,
+    "question": "DeepSeek凭什么在开发者群体里建立了绝对优势",
+    "reference_answer": "开源策略和极低的推理成本，逼着巨头跟进免费或低价策略",
+    "category": "推理型"
+  },
+  {
+    "id": 111,
+    "question": "为什么说2026年春节是AI从\"尝鲜\"走向\"日常\"的分水岭",
+    "reference_answer": "因为大厂通过红包把AI交互和日常消费（点外卖、买票、发红包）强绑定，用户被迫养成习惯",
+    "category": "推理型"
+  },
+  {
+    "id": 112,
+    "question": "Seedance 2.0紧急下线真人图片上传功能，最核心的合规原因是什么",
+    "reference_answer": "怕被滥用来做Deepfake（深度伪造），触犯肖像权和《深度合成管理规定》",
+    "category": "推理型"
+  },
+  {
+    "id": 113,
+    "question": "为什么中国走\"算力网络\"路线而不是死磕单芯片性能",
+    "reference_answer": "因为先进制程芯片被美国卡脖子，只能靠把全国分散的国产算力联网，用系统工程换道超车",
+    "category": "推理型"
+  },
+  {
+    "id": 114,
+    "question": "为什么说\"补贴可以买来流量，但买不来智能\"",
+    "reference_answer": "因为用户领红包是为了省钱，不是为了AI好用；补贴一停，非刚需用户会大量流失",
+    "category": "推理型"
+  },
+  {
+    "id": 115,
+    "question": "2026年中考命题强调\"内容与AI相结合\"，是不是要全员考编程",
+    "reference_answer": "不是，是让AI作为解题背景和工具渗透进各学科，考查计算思维和AI伦理",
+    "category": "推理型"
+  },
+  {
+    "id": 116,
+    "question": "Gartner预测到2030年亚太地区数字业务新增经济价值有多少比例由AI驱动",
+    "reference_answer": "50%",
+    "category": "数据型"
+  },
+  {
+    "id": 117,
+    "question": "Gartner预计多少比例的生成式AI项目会在POC后被放弃",
+    "reference_answer": "约30%",
+    "category": "数据型"
+  },
+  {
+    "id": 118,
+    "question": "工信部赛迪研究院对Seedance 2.0这类视频模型的评价重点是什么",
+    "reference_answer": "重点在物理一致性和长镜头保持，不只是画质好看",
+    "category": "推理型"
+  },
+  {
+    "id": 119,
+    "question": "2026年春节大厂红包大战里，谁拿到了央视春晚独家AI云合作",
+    "reference_answer": "字节跳动（火山引擎）",
+    "category": "事实型"
+  },
+  {
+    "id": 120,
+    "question": "《未成年人网络保护条例》对AI玩具厂商的核心要求是什么",
+    "reference_answer": "不得向未成年人提供诱导沉迷的产品，且收集的未成年人个人信息必须严格加密存储",
+    "category": "事实型"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "id": "893acabb",
+  "title": "今天成都天气如何",
+  "created_at": "2026-07-07T16:16:00.532125",
+  "messages": [
+    {
+      "role": "user",
+      "content": "今天成都天气如何"
+    },
+    {
+      "role": "assistant",
+      "content": "❌ RAG 系统未正确加载",
+      "sources": [],
+      "web_results": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "timestamp": "20260724_155406",
+  "samples_per_weight": 3,
+  "results": [
+    {
+      "faiss_weight": 0.6,
+      "bm25_weight": 0.4,
+      "avg_keyword_overlap": 0.786,
+      "avg_number_hit_rate": 0.932,
+      "pass_rate": 98.0,
+      "bad_case_count": 1,
+      "avg_response_time_sec": 13.97
+    },
+    {
+      "faiss_weight": 0.7,
+      "bm25_weight": 0.3,
+      "avg_keyword_overlap": 0.786,
+      "avg_number_hit_rate": 0.932,
+      "pass_rate": 98.0,
+      "bad_case_count": 1,
+      "avg_response_time_sec": 12.51
+    },
+    {
+      "faiss_weight": 0.8,
+      "bm25_weight": 0.2,
+      "avg_keyword_overlap": 0.785,
+      "avg_number_hit_rate": 0.932,
+      "pass_rate": 98.0,
+      "bad_case_count": 1,
+      "avg_response_time_sec": 13.9
+    }
+  ],
+  "best": {
+    "faiss_weight": 0.6,
+    "bm25_weight": 0.4,
+    "avg_keyword_overlap": 0.786,
+    "avg_number_hit_rate": 0.932,
+    "pass_rate": 98.0,
+    "bad_case_count": 1,
+    "avg_response_time_sec": 13.97
+  }
+}

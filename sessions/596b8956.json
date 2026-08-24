@@ -1,0 +1,16 @@
+{
+  "id": "596b8956",
+  "title": "天气怎么样",
+  "created_at": "2026-07-06T20:43:56.306638",
+  "messages": [
+    {
+      "role": "user",
+      "content": "天气怎么样"
+    },
+    {
+      "role": "assistant",
+      "content": "❌ RAG 系统未正确加载",
+      "sources": []
+    }
+  ]
+}

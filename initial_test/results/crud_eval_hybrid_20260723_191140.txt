@@ -1,0 +1,23 @@
+
+======================================================================
+CRUD_RAG Evaluation Report (2026-07-23 19:11:40)
+======================================================================
+Config: chunk_size=500, top_k=5, mode=hybrid
+Total samples: 20
+
+[Overall]
+  平均 keyword overlap: 79.3%
+  平均 number hit rate: 91.6%
+  通过率 (overlap>=0.5): 100.0%
+  平均响应时间:          10.94 s/q
+
+[Bad case 分布]
+  总 bad case 数: 0
+  - 数字缺失: 0
+  - 答案不完整: 0
+  - 找回错误文档: 0
+  - 其他: 0
+
+[Visualization]
+  Keyword Overlap ###############..... 79.3%
+  Pass Rate       #################### 100.0%

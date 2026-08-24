@@ -1,0 +1,25 @@
+
+======================================================================
+Evaluation Report (2026-07-06 11:37:38)
+======================================================================
+Config: chunk_size=500, top_k=5
+Total questions: 120 (9 trap + 111 normal)
+
+[Per-category accuracy]
+  Factual   (28 q):  keyword overlap 73.4%
+  Numeric   (63 q):  keyword overlap 66.6%  number hit rate 75.9%
+  Reasoning (20 q):  keyword overlap 71.5%
+
+[Hallucination - Trap questions]
+  Correct refusal:  6/9 q
+  Hallucinated:     3/9 q
+  Hallucination rate: 33.3%  (lower is better)
+
+[Overall]
+  Overall keyword overlap: 69.2%
+  Average response time:   4.30 s/q
+
+[Visualization]
+  Factual   ##############...... 73.4%
+  Numeric   #############....... 66.6%
+  Reasoning ##############...... 71.5%

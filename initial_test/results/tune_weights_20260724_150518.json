@@ -1,0 +1,69 @@
+{
+  "timestamp": "20260724_150518",
+  "samples_per_weight": 6,
+  "results": [
+    {
+      "faiss_weight": 0.3,
+      "bm25_weight": 0.7,
+      "avg_keyword_overlap": 0.123,
+      "avg_number_hit_rate": 0.16,
+      "pass_rate": 0.0,
+      "bad_case_count": 20,
+      "avg_response_time_sec": 2.91
+    },
+    {
+      "faiss_weight": 0.4,
+      "bm25_weight": 0.6,
+      "avg_keyword_overlap": 0.125,
+      "avg_number_hit_rate": 0.16,
+      "pass_rate": 0.0,
+      "bad_case_count": 20,
+      "avg_response_time_sec": 2.9
+    },
+    {
+      "faiss_weight": 0.5,
+      "bm25_weight": 0.5,
+      "avg_keyword_overlap": 0.795,
+      "avg_number_hit_rate": 0.916,
+      "pass_rate": 95.0,
+      "bad_case_count": 1,
+      "avg_response_time_sec": 13.49
+    },
+    {
+      "faiss_weight": 0.6,
+      "bm25_weight": 0.4,
+      "avg_keyword_overlap": 0.797,
+      "avg_number_hit_rate": 0.923,
+      "pass_rate": 95.0,
+      "bad_case_count": 1,
+      "avg_response_time_sec": 13.35
+    },
+    {
+      "faiss_weight": 0.7,
+      "bm25_weight": 0.3,
+      "avg_keyword_overlap": 0.797,
+      "avg_number_hit_rate": 0.923,
+      "pass_rate": 95.0,
+      "bad_case_count": 1,
+      "avg_response_time_sec": 14.11
+    },
+    {
+      "faiss_weight": 0.8,
+      "bm25_weight": 0.2,
+      "avg_keyword_overlap": 0.797,
+      "avg_number_hit_rate": 0.923,
+      "pass_rate": 95.0,
+      "bad_case_count": 1,
+      "avg_response_time_sec": 14.44
+    }
+  ],
+  "best": {
+    "faiss_weight": 0.6,
+    "bm25_weight": 0.4,
+    "avg_keyword_overlap": 0.797,
+    "avg_number_hit_rate": 0.923,
+    "pass_rate": 95.0,
+    "bad_case_count": 1,
+    "avg_response_time_sec": 13.35
+  }
+}

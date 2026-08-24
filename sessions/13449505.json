@@ -1,0 +1,53 @@
+{
+  "id": "13449505",
+  "title": "📊 2026年小规模纳税人月销售额多少以...",
+  "created_at": "2026-07-07T20:58:11.314044",
+  "messages": [
+    {
+      "role": "user",
+      "content": "📊 2026年小规模纳税人月销售额多少以下免征增值税？"
+    },
+    {
+      "role": "assistant",
+      "content": "❌ 出错了:\n\nTraceback (most recent call last):\n  File \"e:\\Project\\RAG_Project\\Code\\APP\\rag_engine.py\", line 269, in generate_ai_response\n    answer = chain.invoke({\n             ^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_core\\runnables\\base.py\", line 3442, in invoke\n    input_ = context.run(step.invoke, input_, config, **kwargs)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_core\\runnables\\base.py\", line 4175, in invoke\n    key: future.result()\n         ^^^^^^^^^^^^^^^\n  File \"D:\\Python\\Lib\\concurrent\\futures\\_base.py\", line 449, in result\n    return self.__get_result()\n           ^^^^^^^^^^^^^^^^^^^\n  File \"D:\\Python\\Lib\\concurrent\\futures\\_base.py\", line 401, in __get_result\n    raise self._exception\n  File \"D:\\Python\\Lib\\concurrent\\futures\\thread.py\", line 59, in run\n    result = self.fn(*self.args, **self.kwargs)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_core\\runnables\\base.py\", line 4158, in _invoke_step\n    return context.run(\n           ^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_core\\runnables\\base.py\", line 3442, in invoke\n    input_ = context.run(step.invoke, input_, config, **kwargs)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_core\\retrievers.py\", line 222, in invoke\n    result = self._get_relevant_documents(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_core\\vectorstores\\base.py\", line 1045, in _get_relevant_documents\n    docs = self.vectorstore.similarity_search(query, **kwargs_)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_community\\vectorstores\\faiss.py\", line 643, in similarity_search\n    docs_and_scores = self.similarity_search_with_score(\n                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_community\\vectorstores\\faiss.py\", line 515, in similarity_search_with_score\n    embedding = self._embed_query(query)\n                ^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_community\\vectorstores\\faiss.py\", line 266, in _embed_query\n    return self.embedding_function.embed_query(text)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"e:\\Project\\RAG_Project\\Code\\APP\\rag_utils.py\", line 113, in embed_query\n    return self.embed_documents([text])[0]\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"e:\\Project\\RAG_Project\\Code\\APP\\rag_utils.py\", line 91, in embed_documents\n    t = t.replace(\"\\n\", \" \").strip()\n        ^^^^^^^^^\nAttributeError: 'dict' object has no attribute 'replace'\n",
+      "sources": [],
+      "web_results": [
+        {
+          "title": "2026年小规模纳税人增值税申报_起征点征收率免税_中企昌财税",
+          "url": "https://www.bangni100.com/blog/xiaoguimo-nashuiren-zengzhishuifa-shenbao/",
+          "snippet": "2026年增值税法后小规模纳税人申报实操：起征点、征收率、免税全梳理.起征点标准. 按月纳税. 月销售额 10万元. 按季纳税. 季度销售额 30万元."
+        },
+        {
+          "title": "企业借款的税务处理（2026.06.23...",
+          "url": "https://www.shui5.cn/article/c4/8681.html",
+          "snippet": "(二)2026年1月1日以后. 1.企业之间无偿借款、企业借款给个人不再视同销售，而是属于增值税非应税交易。 2.自然人无偿借款给企业或个人不征收增值税；(一直).增值税小规模纳税人免征增值税。"
+        },
+        {
+          "title": "发票总额度显示45万是一个月还是一个季度-今日头条",
+          "url": "https://www.toutiao.com/topic/7513005025816283155/",
+          "snippet": "小规模纳税人季度销售额45万以下都能免税吗？ 6个案例为您解答图片.小规模新政策！ 4月1日起，免征增值税！ 3%专票这样开才对图片."
+        },
+        {
+          "title": "有关于一般纳税人，这些常识你都了解吗？ -仲企财税",
+          "url": "https://www.zhongqijt.com/detail/1717743701.html",
+          "snippet": "为1个纳税期）累计销售额未超过500万元的一般纳税人，在2019年12月31日前，可选择转登记为小规模纳税人。 2、一般纳税人月销售在10万元以下，是否也免征增值税？ 有关于一般纳税人，这些常识你都了解吗？"
+        },
+        {
+          "title": "acc5.com/ask/question_10411590.html",
+          "url": "https://www.acc5.com/ask/question_10411590.html",
+          "snippet": "小规模纳税人发生增值税应税销售行为，合计月销售额超过10万元，但扣除本期发生的销售不动产的销售额后未超过10万元的，其销售货物、劳务、服务、无. 形资产取得的销售额免征增值税。 二、适用增值税差额征税政策的小规模纳税人，以差额后的销售额确定是否可以享受本公..."
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": "🤖 中国AI大模型Token调用量在哪一周首次超越美国？"
+    },
+    {
+      "role": "assistant",
+      "content": "❌ 出错了:\n\nTraceback (most recent call last):\n  File \"e:\\Project\\RAG_Project\\Code\\APP\\rag_engine.py\", line 269, in generate_ai_response\n    answer = chain.invoke({\n             ^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_core\\runnables\\base.py\", line 3442, in invoke\n    input_ = context.run(step.invoke, input_, config, **kwargs)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_core\\runnables\\base.py\", line 4175, in invoke\n    key: future.result()\n         ^^^^^^^^^^^^^^^\n  File \"D:\\Python\\Lib\\concurrent\\futures\\_base.py\", line 449, in result\n    return self.__get_result()\n           ^^^^^^^^^^^^^^^^^^^\n  File \"D:\\Python\\Lib\\concurrent\\futures\\_base.py\", line 401, in __get_result\n    raise self._exception\n  File \"D:\\Python\\Lib\\concurrent\\futures\\thread.py\", line 59, in run\n    result = self.fn(*self.args, **self.kwargs)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_core\\runnables\\base.py\", line 4158, in _invoke_step\n    return context.run(\n           ^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_core\\runnables\\base.py\", line 3442, in invoke\n    input_ = context.run(step.invoke, input_, config, **kwargs)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_core\\retrievers.py\", line 222, in invoke\n    result = self._get_relevant_documents(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_core\\vectorstores\\base.py\", line 1045, in _get_relevant_documents\n    docs = self.vectorstore.similarity_search(query, **kwargs_)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_community\\vectorstores\\faiss.py\", line 643, in similarity_search\n    docs_and_scores = self.similarity_search_with_score(\n                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_community\\vectorstores\\faiss.py\", line 515, in similarity_search_with_score\n    embedding = self._embed_query(query)\n                ^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"E:\\Project\\RAG_Project\\ragvenv\\Lib\\site-packages\\langchain_community\\vectorstores\\faiss.py\", line 266, in _embed_query\n    return self.embedding_function.embed_query(text)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"e:\\Project\\RAG_Project\\Code\\APP\\rag_utils.py\", line 113, in embed_query\n    return self.embed_documents([text])[0]\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"e:\\Project\\RAG_Project\\Code\\APP\\rag_utils.py\", line 91, in embed_documents\n    t = t.replace(\"\\n\", \" \").strip()\n        ^^^^^^^^^\nAttributeError: 'dict' object has no attribute 'replace'\n",
+      "sources": [],
+      "web_results": []
+    }
+  ]
+}
