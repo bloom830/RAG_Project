@@ -4,13 +4,6 @@
 
 ![智策通系统主界面](images/UI界面.png)
 
-![](images/流程.png)
-
-![](images/实验2-3.png)
-
-![](images/实验4-5.png)
-
-![](images/整体对比.png)
 
 ## 功能特性
 
