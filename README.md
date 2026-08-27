@@ -2,7 +2,10 @@
 
 基于 RAG（检索增强生成）的政策与行业分析智能问答系统，使用 Streamlit 构建 Web 界面。
 ![智策通系统主界面](images/UI界面.png)
-
+(images/流程.png)
+(images/实验2-3.png)
+(images/实验4-5.png)
+(images/整体对比.png)
 ## 功能特性
 
 - **RAG 问答**：基于本地知识库（PDF / MD / TXT）检索增强生成
